@@ -1,0 +1,9 @@
+[package]
+name = "max-launcher"
+version = "0.1.0"
+edition = "2021"
+description = "Max Launcher — pusat resmi untuk semua project Max"
+license = "MIT"
+authors = ["Kuro Akira <mythskuro@gmail.com>"]
+
+[dependencies]
